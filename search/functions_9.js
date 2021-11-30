@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['talon1callback_0',['talon1Callback',['../communication__node_8cpp.html#a80789b98786b446a4d1a265ed55911e8',1,'communication_node.cpp']]],
-  ['talon2callback_1',['talon2Callback',['../communication__node_8cpp.html#a3ade312664d2293dbe644f15ef360e23',1,'communication_node.cpp']]]
+  ['operator_28_29_0',['operator()',['../classcv_1_1aruco_1_1DetectInitialCandidatesParallel.html#a3b22173bd26d3f30fd6220c6a14e9297',1,'cv::aruco::DetectInitialCandidatesParallel::operator()()'],['../classcv_1_1aruco_1_1IdentifyCandidatesParallel.html#a016854cf78015c0a048f313488fb87a6',1,'cv::aruco::IdentifyCandidatesParallel::operator()()'],['../classcv_1_1aruco_1_1MarkerSubpixelParallel.html#a3d9736a473ca110c4e87cd1e6554545e',1,'cv::aruco::MarkerSubpixelParallel::operator()()'],['../classcv_1_1aruco_1_1SinglePoseEstimationParallel.html#a956ca8624f0cc8cc6a8d97571778e9ea',1,'cv::aruco::SinglePoseEstimationParallel::operator()()'],['../classcv_1_1aruco_1_1CharucoSubpixelParallel.html#af3a05dca5ce6e092bd21c2dc0aef6c15',1,'cv::aruco::CharucoSubpixelParallel::operator()()']]]
 ];

@@ -1,9 +1,5 @@
 var searchData=
 [
-  ['parsefloat_0',['parseFloat',['../communication__node_8cpp.html#a1284893ca1a8f5a3466dd699a6e50405',1,'communication_node.cpp']]],
-  ['parseint_1',['parseInt',['../communication__node_8cpp.html#a916bfd0d426e122b1d50f9697bf8f576',1,'communication_node.cpp']]],
-  ['power_2emsg_2',['Power.msg',['../Power_8msg.html',1,'']]],
-  ['power_5fdistribution_5fpanel_5fnode_2ecpp_3',['power_distribution_panel_node.cpp',['../power__distribution__panel__node_8cpp.html',1,'']]],
-  ['powercallback_4',['powerCallback',['../communication__node_8cpp.html#a236d6a7ceebf3a57bdb5b41e7e849ed4',1,'communication_node.cpp']]],
-  ['printaddresses_5',['printAddresses',['../communication__node_8cpp.html#ab4762af4052183218509e9f8b695f8c2',1,'communication_node.cpp']]]
+  ['main_0',['main',['../autonomy__node_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627',1,'main(int argc, char **argv):&#160;autonomy_node.cpp'],['../communication__node_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627',1,'main(int argc, char **argv):&#160;communication_node.cpp'],['../logic__node_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627',1,'main(int argc, char **argv):&#160;logic_node.cpp'],['../power__distribution__panel__node_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627',1,'main(int argc, char **argv):&#160;power_distribution_panel_node.cpp'],['../talon__node_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627',1,'main(int argc, char **argv):&#160;talon_node.cpp'],['../zed__tracking__node_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627',1,'main(int argc, char **argv):&#160;zed_tracking_node.cpp']]],
+  ['markersubpixelparallel_1',['MarkerSubpixelParallel',['../classcv_1_1aruco_1_1MarkerSubpixelParallel.html',1,'cv::aruco::MarkerSubpixelParallel'],['../classcv_1_1aruco_1_1MarkerSubpixelParallel.html#a31f881bf0c61aa07323a3251a83b317e',1,'cv::aruco::MarkerSubpixelParallel::MarkerSubpixelParallel()']]]
 ];

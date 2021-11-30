@@ -1,7 +1,6 @@
 var searchData=
 [
-  ['parsefloat_0',['parseFloat',['../communication__node_8cpp.html#a1284893ca1a8f5a3466dd699a6e50405',1,'communication_node.cpp']]],
-  ['parseint_1',['parseInt',['../communication__node_8cpp.html#a916bfd0d426e122b1d50f9697bf8f576',1,'communication_node.cpp']]],
-  ['powercallback_2',['powerCallback',['../communication__node_8cpp.html#a236d6a7ceebf3a57bdb5b41e7e849ed4',1,'communication_node.cpp']]],
-  ['printaddresses_3',['printAddresses',['../communication__node_8cpp.html#ab4762af4052183218509e9f8b695f8c2',1,'communication_node.cpp']]]
+  ['joystickaxiscallback_0',['joystickAxisCallback',['../logic__node_8cpp.html#a93a42d386374821388c30e3b8e3cd2cb',1,'logic_node.cpp']]],
+  ['joystickbuttoncallback_1',['joystickButtonCallback',['../logic__node_8cpp.html#a2e6bbe95c6993e758ed7ebec50013434',1,'logic_node.cpp']]],
+  ['joystickhatcallback_2',['joystickHatCallback',['../logic__node_8cpp.html#a01211abeffe8ccc672747e28fe1ef14e',1,'logic_node.cpp']]]
 ];
