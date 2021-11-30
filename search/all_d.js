@@ -1,4 +1,7 @@
 var searchData=
 [
-  ['operator_28_29_0',['operator()',['../classcv_1_1aruco_1_1DetectInitialCandidatesParallel.html#a3b22173bd26d3f30fd6220c6a14e9297',1,'cv::aruco::DetectInitialCandidatesParallel::operator()()'],['../classcv_1_1aruco_1_1IdentifyCandidatesParallel.html#a016854cf78015c0a048f313488fb87a6',1,'cv::aruco::IdentifyCandidatesParallel::operator()()'],['../classcv_1_1aruco_1_1MarkerSubpixelParallel.html#a3d9736a473ca110c4e87cd1e6554545e',1,'cv::aruco::MarkerSubpixelParallel::operator()()'],['../classcv_1_1aruco_1_1SinglePoseEstimationParallel.html#a956ca8624f0cc8cc6a8d97571778e9ea',1,'cv::aruco::SinglePoseEstimationParallel::operator()()'],['../classcv_1_1aruco_1_1CharucoSubpixelParallel.html#af3a05dca5ce6e092bd21c2dc0aef6c15',1,'cv::aruco::CharucoSubpixelParallel::operator()()']]]
+  ['new_5fsocket_0',['new_socket',['../communication__node_8cpp.html#a4848332eecf4c58ee3b11a4f8513c3db',1,'communication_node.cpp']]],
+  ['newlaunch_1',['newLaunch',['../namespacenewLaunch.html',1,'']]],
+  ['newlaunch_2epy_2',['newLaunch.py',['../newLaunch_8py.html',1,'']]],
+  ['nodehandle_3',['nodeHandle',['../autonomy__node_8cpp.html#a4139548a0cb7d8e541599673553f489a',1,'nodeHandle():&#160;autonomy_node.cpp'],['../logic__node_8cpp.html#a4139548a0cb7d8e541599673553f489a',1,'nodeHandle():&#160;logic_node.cpp'],['../talon__node_8cpp.html#a4139548a0cb7d8e541599673553f489a',1,'nodeHandle():&#160;talon_node.cpp']]]
 ];

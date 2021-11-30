@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['go_0',['GO',['../talon__node_8cpp.html#a0dd9be09130439d9dd5ff4ef0aca26c8',1,'talon_node.cpp']]]
+  ['empty_0',['empty',['../communication__node_8cpp.html#a1291e6f2e820aa65cffd22edfd42d846',1,'communication_node.cpp']]]
 ];
