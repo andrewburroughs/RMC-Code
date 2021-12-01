@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['joystickcommand_0',['JoystickCommand',['../md_skinny_src_messages_msg_JoystickCommand.html',1,'']]]
+  ['axisstate_0',['AxisState',['../md_skinny_src_messages_msg_AxisState.html',1,'']]]
 ];
