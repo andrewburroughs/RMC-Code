@@ -1,7 +1,6 @@
 var searchData=
 [
-  ['new_5fsocket_0',['new_socket',['../communication__node_8cpp.html#a4848332eecf4c58ee3b11a4f8513c3db',1,'communication_node.cpp']]],
-  ['newlaunch_1',['newLaunch',['../namespacenewLaunch.html',1,'']]],
-  ['newlaunch_2epy_2',['newLaunch.py',['../newLaunch_8py.html',1,'']]],
-  ['nodehandle_3',['nodeHandle',['../autonomy__node_8cpp.html#a4139548a0cb7d8e541599673553f489a',1,'nodeHandle():&#160;autonomy_node.cpp'],['../logic__node_8cpp.html#a4139548a0cb7d8e541599673553f489a',1,'nodeHandle():&#160;logic_node.cpp'],['../talon__node_8cpp.html#a4139548a0cb7d8e541599673553f489a',1,'nodeHandle():&#160;talon_node.cpp']]]
+  ['talon1callback_0',['talon1Callback',['../communication__node_8cpp.html#a80789b98786b446a4d1a265ed55911e8',1,'communication_node.cpp']]],
+  ['talon2callback_1',['talon2Callback',['../communication__node_8cpp.html#a3ade312664d2293dbe644f15ef360e23',1,'communication_node.cpp']]],
+  ['talon_5fnode_2ecpp_2',['talon_node.cpp',['../talon__node_8cpp.html',1,'']]]
 ];

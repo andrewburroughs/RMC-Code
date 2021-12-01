@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['filteredchessboardimgpoints_0',['filteredChessboardImgPoints',['../classcv_1_1aruco_1_1CharucoSubpixelParallel.html#a7d8dc1c7af65c8fdafda6ea80ebac684',1,'cv::aruco::CharucoSubpixelParallel']]],
-  ['filteredwinsizes_1',['filteredWinSizes',['../classcv_1_1aruco_1_1CharucoSubpixelParallel.html#a33f9f9fcd4b380589efc057d3eceecbb',1,'cv::aruco::CharucoSubpixelParallel']]]
+  ['identifycandidatesparallel_0',['IdentifyCandidatesParallel',['../classcv_1_1aruco_1_1IdentifyCandidatesParallel.html',1,'cv::aruco']]],
+  ['insert_1',['insert',['../communication__node_8cpp.html#aa1d1d7dc5b9267631230ec004aa791d8',1,'insert(float value, uint8_t *array):&#160;communication_node.cpp'],['../communication__node_8cpp.html#a136214bd6c2111a04dd81800b0855b98',1,'insert(int value, uint8_t *array):&#160;communication_node.cpp']]]
 ];
