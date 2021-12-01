@@ -1,7 +1,6 @@
 var searchData=
 [
-  ['new_5fsocket_0',['new_socket',['../communication__node_8cpp.html#a4848332eecf4c58ee3b11a4f8513c3db',1,'communication_node.cpp']]],
-  ['newlaunch_1',['newLaunch',['../namespacenewLaunch.html',1,'']]],
-  ['newlaunch_2epy_2',['newLaunch.py',['../newLaunch_8py.html',1,'']]],
-  ['nodehandle_3',['nodeHandle',['../autonomy__node_8cpp.html#a4139548a0cb7d8e541599673553f489a',1,'nodeHandle():&#160;autonomy_node.cpp'],['../logic__node_8cpp.html#a4139548a0cb7d8e541599673553f489a',1,'nodeHandle():&#160;logic_node.cpp'],['../talon__node_8cpp.html#a4139548a0cb7d8e541599673553f489a',1,'nodeHandle():&#160;talon_node.cpp']]]
+  ['main_0',['main',['../autonomy__node_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627',1,'main(int argc, char **argv):&#160;autonomy_node.cpp'],['../communication__node_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627',1,'main(int argc, char **argv):&#160;communication_node.cpp'],['../logic__node_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627',1,'main(int argc, char **argv):&#160;logic_node.cpp'],['../power__distribution__panel__node_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627',1,'main(int argc, char **argv):&#160;power_distribution_panel_node.cpp'],['../talon__node_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627',1,'main(int argc, char **argv):&#160;talon_node.cpp'],['../zed__tracking__node_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627',1,'main(int argc, char **argv):&#160;zed_tracking_node.cpp']]],
+  ['markerobjpoints_1',['markerObjPoints',['../classcv_1_1aruco_1_1SinglePoseEstimationParallel.html#adf82d15cdd91b0e215082dd6e1d6224e',1,'cv::aruco::SinglePoseEstimationParallel']]],
+  ['markersubpixelparallel_2',['MarkerSubpixelParallel',['../classcv_1_1aruco_1_1MarkerSubpixelParallel.html',1,'cv::aruco::MarkerSubpixelParallel'],['../classcv_1_1aruco_1_1MarkerSubpixelParallel.html#a31f881bf0c61aa07323a3251a83b317e',1,'cv::aruco::MarkerSubpixelParallel::MarkerSubpixelParallel()']]]
 ];
