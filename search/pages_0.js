@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['razorbotz_20rmc_202021_2d2022_20documentation_20home_20page_0',['Razorbotz RMC 2021-2022 Documentation Home Page',['../index.html',1,'']]]
+  ['welcome_20to_20the_20razorbotz_20nasa_20robotic_20mining_20competition_20project_21_0',['Welcome to the Razorbotz NASA Robotic Mining Competition Project!',['../index.html',1,'']]]
 ];
